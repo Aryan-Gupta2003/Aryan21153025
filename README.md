@@ -1,7 +1,11 @@
+<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png" alt="FrontEnd" width="400">
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate frontend developer and programmer</h3>
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png" alt="FrontEnd" width="400">
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan21153025" alt="aryan21153025" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
